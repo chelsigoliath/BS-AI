@@ -1,4 +1,4 @@
-Artificial Intelligence text-to-image generatoR by using CLIP to guide BigGAN.
+Artificial Intelligence text-to-image generator by using CLIP to guide BigGAN.
 
 I am not the developer of this code, this is licensed by MIT and credits to the developer are given inside the repository
 
