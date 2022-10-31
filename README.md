@@ -1,7 +1,8 @@
 Artificial Intelligence text-to-image generatoR by using CLIP to guide BigGAN.
-<img src="./samples/artificial_intelligence.png" width="250px"></img>
 
 I am not the developer of this code, this is licensed by MIT and credits to the developer are given inside the repository
+
+<img src="./samples/artificial_intelligence.png" width="250px"></img>
 
 *artificial intelligence*
 
