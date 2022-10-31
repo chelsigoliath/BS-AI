@@ -1,3 +1,4 @@
+
 <img src="./samples/artificial_intelligence.png" width="250px"></img>
 
 *artificial intelligence*
