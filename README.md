@@ -1,3 +1,5 @@
+The images you see is what gets generated when specific text input is inserted.
+
 <img src="./samples/artificial_intelligence.png" width="250px"></img>
 
 *artificial intelligence*
